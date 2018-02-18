@@ -17,11 +17,11 @@ The controls of this game are very simple. They use the "W-A-S-D" keyboard contr
 More advanced controls may be added in a future release.
 
 ### Installing
-Go to the "[**Releases**](https://github.com/suvanl/Blockspeed/releases)" page of this repository, and download the **BLOCKSPEED-Setup-x86.exe** file.
+Notice in advance: **When your system tries to run the installer, you may get a warning from Windows SmartScreen or your antivirus.** If this does occur, make sure to skip past the warning (i.e. pressing "more info" on Windows SmartScreen will give you an option to run the executable). The reason as to why this happens is due to the software being unsigned, as I have not yet paid for a code signing certificate. I however do assure you, the end user, that nothing malicious is present in the installer script, nor the code of the Blockspeed game itself.
+
+- Go to the "[**Releases**](https://github.com/suvanl/Blockspeed/releases)" page of this repository, and download the **BLOCKSPEED-Setup-x86.exe** file.
 
  - Once the .exe file has downloaded, run it. 
-
-**When your system tries to run the installer, you may get a warning from Windows SmartScreen or your antivirus.** If this does occur, make sure to skip past the warning (i.e. pressing "more info" on Windows SmartScreen will give you an option to run the executable). The reason as to why this happens is due to the software being unsigned, as I have not yet paid for a code signing certificate. I however do assure you, the end user, that nothing malicious is present in the installer script, nor the code of the Blockspeed game itself.
 
 - Running the executable will present you with an installer. Running this installer will obviously install the game to your system. If you wish to, you can create a desktop shortcut for easier access. The installer is not complicated at all, and the game can be installed by just pressing "next" through the entire wizard.
 
