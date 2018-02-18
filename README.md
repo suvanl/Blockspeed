@@ -7,7 +7,7 @@ An indie/arcade-style game, with elegant, modern graphics. Built using the **Uni
 ### Supported Platforms
 This game currently only runs on Windows 32-bit and 64-bit systems. However, support for macOS will be added in the near future.
 
-### How to play
+### How to Play
 The controls of this game are very simple. They use the "W-A-S-D" keyboard control layout:
 
 **A**: Move left
