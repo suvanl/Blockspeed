@@ -6,8 +6,11 @@ An indie/arcade-style game, with elegant, modern graphics. Built using the **Uni
 
 ### How to play
 The controls of this game are very simple. They use the "W-A-S-D" keyboard control layout:
+
 **A**: Move left
+
 **D**: Move right
+
 More advanced controls may be added in a future release.
 
 ### Installing
