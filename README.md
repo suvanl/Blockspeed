@@ -10,9 +10,9 @@ This game currently only runs on Windows 32-bit and 64-bit systems. However, sup
 ## How to Play
 The controls of this game are very simple. They use the "W-A-S-D" keyboard control layout:
 
-**A**: Move left
+<kbd>A</kbd> Move **left**
 
-**D**: Move right
+<kbd>D</kbd> Move **right**
 
 More advanced controls may be added in a future release.
 
